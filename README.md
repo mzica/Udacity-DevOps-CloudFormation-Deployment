@@ -8,4 +8,4 @@ This  repo contains a Udacity DevOps project for infrastructure as code.
 
 2 - Creating a server  within the VPC in multi zones for  high availability.
 
-3 - Deploying a web  page resource on the web server.
+3 - Deploying a web  page resource on the web servers.
