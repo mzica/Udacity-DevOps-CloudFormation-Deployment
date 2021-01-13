@@ -1,5 +1,6 @@
 # Udacity-DevOps-CloudFormation-Deployment
-Udacity CloudFormation Server Deployment Project
+Udacity CloudFormation Server Deployment Project	
+
 This is a deployment of a CloudFormation Templates on AWS cloud and its resources i.e. servers.
 This  repo contains a Udacity DevOps project for infrastructure as code.	
 
